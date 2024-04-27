@@ -16,9 +16,9 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+Aws+Certified+Cloud+Practitioner;I'm+a+Web+Developer!;" /></a>
 </p>
 
-- 🔭 Created a web application that fetches dynamic weather. [https://abhiroy22.netlify.app/](https://abhiroy22.netlify.app/)
+- 🔭 Created a web application that fetches dynamic weather. [Get Weather](https://abhiroy22.netlify.app/)
 
-- 👨‍💻 I'm certified AWS Cloud Practitioner [https://www.credly.com/badges/b35c522c-1f2a-4b2f-9cf4-72cfc6ccbe19](https://www.credly.com/badges/b35c522c-1f2a-4b2f-9cf4-72cfc6ccbe19)
+- 👨‍💻 I'm certified AWS Cloud Practitioner [Aws Certified Cloud Practitioner](https://www.credly.com/badges/b35c522c-1f2a-4b2f-9cf4-72cfc6ccbe19)
 
 - 💬 Ask me about JAVA,AWS **Spring, Springboot**
 
