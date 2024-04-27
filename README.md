@@ -1,13 +1,20 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-cloud-practitioner-practice-test%2F&psig=AOvVaw2oYvQc6H7SLZ2Mt0JzGxCX&ust=1714310858709000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiYg-a_4oUDFQAAAAAdAAAAABAE)
+
+<div style="text-align: center;">
+    <img src="https://img-c.udemycdn.com/course/750x422/1670116_5bd7_3.jpg" style="width: 100%;">
+</div>
+
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Roy</h1>
 <h3 align="center">"As a recent graduate with a B.Tech in Information Technology, I am passionate about programming and possess Strong design and integration skills, as well as intuitive problem-solving abilities. Expertise in Java, Web development, and AWS. I am enthusiastic about implementing and launching new projects. Capability to convert business requirements into technical solutions!</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fstudent-doing-coding-his-computer-setup_59530789.htm&psig=AOvVaw0RTJAnb5wpYIpCNEOxa5HQ&ust=1714243848621000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiNm5XG4IUDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14111.jpg">
 
-<h3 align="center">A passionate Web developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek74799&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek74799" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhishekroy7475" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekroy7475?logo=twitter&style=for-the-badge" alt="abhishekroy7475" /></a> </p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+Aws+Certified+Cloud+Practitioner;I'm+a+Web+Developer!;" /></a>
+</p>
 
 - 🔭 Created a web application that fetches dynamic weather. [https://abhiroy22.netlify.app/](https://abhiroy22.netlify.app/)
 
