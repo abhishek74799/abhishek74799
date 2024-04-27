@@ -13,7 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhishekroy7475" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekroy7475?logo=twitter&style=for-the-badge" alt="abhishekroy7475" /></a> </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+Aws+Certified+Cloud+Practitioner;I'm+a+Web+Developer!;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=7FFF00&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+Aws+Certified+Cloud+Practitioner;I'm+a+Web+Developer!;">
+</a>
 </p>
 
 - 🔭 Created a web application that fetches dynamic weather. [Get Weather](https://abhiroy22.netlify.app/)
@@ -24,7 +26,7 @@
 
 - 📫 How to reach me **abhishek9939roy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Kwdzs_eVQ5ctQnynO56JeXtTbuqSsLrd/view?usp=drivesdk](https://drive.google.com/file/d/1Kwdzs_eVQ5ctQnynO56JeXtTbuqSsLrd/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jSSHYsiUelakMmKRNqKJrOSfdPJ128Nx/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think i'm creative**
 
