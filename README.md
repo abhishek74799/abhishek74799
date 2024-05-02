@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **abhishek9939roy@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jSSHYsiUelakMmKRNqKJrOSfdPJ128Nx/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nCqDCXYVaMvuPtCgBOvpuSKjAM3BtlA_/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think i'm creative**
 
